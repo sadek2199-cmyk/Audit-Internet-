@@ -1,0 +1,232 @@
+{
+  "exportedAt": "2026-10-21T17:58:58.660Z",
+  "branches": [
+    {
+      "id": "b1789229753250m070c",
+      "name": "ادارة ميدان لبنان",
+      "phone": "0233461939",
+      "packageName": "1500GB",
+      "price": "2300",
+      "cycleDays": 30,
+      "notes": "",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-10-18"
+      ]
+    },
+    {
+      "id": "b1789229803272ipzv7",
+      "name": "ادارة المعهد الديني",
+      "phone": "0235436009",
+      "packageName": "1500GB",
+      "price": "2300",
+      "cycleDays": 30,
+      "notes": "بأسم ابراهيم محمود عمر علي",
+      "contractNumber": "28203152400377",
+      "renewalHistory": [
+        "2026-10-18"
+      ]
+    },
+    {
+      "id": "b17892298926900kjw6",
+      "name": "فرع وسط البلد",
+      "phone": "0227734842",
+      "packageName": "250GB",
+      "price": "450",
+      "cycleDays": 23,
+      "notes": "تم عمل اضافيه",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-10-21"
+      ]
+    },
+    {
+      "id": "b1789229964161hcx9l",
+      "name": "فرع الجيزه",
+      "phone": "0237741205",
+      "packageName": "250GB",
+      "price": "450",
+      "cycleDays": 30,
+      "notes": "50 ج قسط روتر الخط بأسم الحج طه",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-10-11"
+      ]
+    },
+    {
+      "id": "b1789230458936taw9i",
+      "name": "فرع فيصل",
+      "phone": "01286741809",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 27,
+      "notes": "اسم صاحب الخط شيماء صلاح الدين عبدالمجيد /3ش احمد سعيد الهرم",
+      "contractNumber": "30212112500563",
+      "renewalHistory": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": "b1789230655728zzlpr",
+      "name": "فرع عباس العقاد",
+      "phone": "0220750069",
+      "packageName": "250GB",
+      "price": "550",
+      "cycleDays": 26,
+      "notes": "",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-09-12",
+        "2026-10-07"
+      ]
+    },
+    {
+      "id": "b1789230822670jhgsa",
+      "name": "فرع دار السلام",
+      "phone": "0223160813",
+      "packageName": "250GB",
+      "price": "450",
+      "cycleDays": 30,
+      "notes": "بأسم احمد نجيب",
+      "contractNumber": "27712310101178",
+      "renewalHistory": [
+        "2026-09-12",
+        "2026-10-06"
+      ]
+    },
+    {
+      "id": "b1789230909328rl97c",
+      "name": "فرع الكوربة",
+      "phone": "0222562461",
+      "packageName": "250GB",
+      "price": "450",
+      "cycleDays": 25,
+      "notes": "",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-10-18"
+      ]
+    },
+    {
+      "id": "b1789315422442wydv9",
+      "name": "فرع الحلمية",
+      "phone": "01286403756",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 20,
+      "notes": "هوائي اسلام اسامة رجب",
+      "contractNumber": "30312260101311",
+      "renewalHistory": [
+        "2026-10-18"
+      ]
+    },
+    {
+      "id": "b1789316871009l3lpo",
+      "name": "فرع العاشر",
+      "phone": "01117978021",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 22,
+      "notes": "خط فاتورة بأسم سرحان عبدالحميد صبري سرحان",
+      "contractNumber": "27201061701793",
+      "renewalHistory": [
+        "2026-10-11"
+      ]
+    },
+    {
+      "id": "b17894192306158wqm5",
+      "name": "فرع خاتم المرسلين تيته",
+      "phone": "01286905175",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 23,
+      "notes": "هوائي بأسم محمد احمد محمد علي",
+      "contractNumber": "29607252103571",
+      "renewalHistory": [
+        "2026-10-08"
+      ]
+    },
+    {
+      "id": "b1790184421596t74k5",
+      "name": "فرع الخصوص",
+      "phone": "01283516419",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 17,
+      "notes": "الخط هوائي بأسم اسلام اسامة رجب سليمان",
+      "contractNumber": "30312260101311",
+      "renewalHistory": [
+        "2026-10-11"
+      ]
+    },
+    {
+      "id": "b1790530492652xv3yi",
+      "name": "فرع زايد",
+      "phone": "01203265178",
+      "packageName": "240GB",
+      "price": "800",
+      "cycleDays": 25,
+      "notes": "هوائي اسلام صلاح",
+      "contractNumber": "29502041401197",
+      "renewalHistory": [
+        "2026-10-20"
+      ]
+    },
+    {
+      "id": "b17910612206122j08s",
+      "name": "فرع ترسا تيته",
+      "phone": "01208710245",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 25,
+      "notes": "هوائي بأسم اسلام صلاح",
+      "contractNumber": "29502041401197",
+      "renewalHistory": [
+        "2026-10-03"
+      ]
+    },
+    {
+      "id": "b179132211803556ae1",
+      "name": "فرع بنها",
+      "phone": "01024716249",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 25,
+      "notes": "هوائي بأسم مصطفي محمود عبدالحافظ",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-10-06"
+      ]
+    },
+    {
+      "id": "b17917295194521vqfh",
+      "name": "فرع حدائق الاهرام",
+      "phone": "01289618274",
+      "packageName": "140GB",
+      "price": "750",
+      "cycleDays": 26,
+      "notes": "الخط هوائي بأسم محمد حمدي حسين محمد",
+      "contractNumber": "29303290102431",
+      "renewalHistory": [
+        "2026-10-11"
+      ]
+    },
+    {
+      "id": "b1792595813568a2bgc",
+      "name": "مصنع المؤسسة",
+      "phone": "01289424317",
+      "packageName": "140 G",
+      "price": "520",
+      "cycleDays": 30,
+      "notes": "",
+      "contractNumber": "",
+      "renewalHistory": [
+        "2026-09-20"
+      ]
+    }
+  ],
+  "settings": {
+    "thresholdDays": 2,
+    "email": "mohamedghadeer305@gmail.com"
+  }
+}
